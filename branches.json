@@ -1,0 +1,20 @@
+[
+  {
+    "id": "branch_1",
+    "name": "لبنیاتی منطقه ۱ (مرکزی)",
+    "file": "branch_1.json",
+    "description": "شیر، ماست، پنیر، دوغ و ..."
+  },
+  {
+    "id": "branch_2",
+    "name": "لبنیاتی منطقه ۲ (غرب)",
+    "file": "branch_2.json",
+    "description": "شیر، ماست، پنیر، دوغ و ..."
+  },
+  {
+    "id": "branch_3",
+    "name": "لبنیاتی منطقه ۳ (شرق)",
+    "file": "branch_3.json",
+    "description": "شیر، ماست، پنیر، دوغ و ..."
+  }
+]

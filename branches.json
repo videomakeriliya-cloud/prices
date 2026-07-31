@@ -1,20 +1,26 @@
 [
   {
-    "id": "branch_1",
-    "name": "لبنیاتی منطقه ۱ (مرکزی)",
+    "description": "شیر، ماست، پنیر، دوغ و ...",
     "file": "branch_1.json",
-    "description": "شیر، ماست، پنیر، دوغ و ..."
+    "id": "branch_1",
+    "name": "لبنیاتی منطقه ۱"
   },
   {
-    "id": "branch_2",
-    "name": "لبنیاتی منطقه ۲ (غرب)",
+    "description": "شیر، ماست، پنیر، دوغ و ...",
     "file": "branch_2.json",
-    "description": "شیر، ماست، پنیر، دوغ و ..."
+    "id": "branch_2",
+    "name": "لبنیاتی منطقه ۲"
   },
   {
-    "id": "branch_3",
-    "name": "لبنیاتی منطقه ۳ (شرق)",
+    "description": "شیر، ماست، پنیر، دوغ و ...",
     "file": "branch_3.json",
-    "description": "شیر، ماست، پنیر، دوغ و ..."
+    "id": "branch_3",
+    "name": "لبنیاتی منطقه ۳"
+  },
+  {
+    "description": "شیر ، ماست ، دوغ ، پنیر و ...",
+    "file": "branch_4.json",
+    "id": "branch_4",
+    "name": "لبنیاتی منطقه ۴"
   }
 ]

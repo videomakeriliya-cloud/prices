@@ -28,5 +28,11 @@
     "file": "branch_5.json",
     "id": "branch_5",
     "name": "لبنیاتی منطقه ۵"
+  },
+  {
+    "description": "شیر ، ماست ، دوغ ، پنیر و ...",
+    "file": "branch_6.json",
+    "id": "branch_6",
+    "name": "لبنیاتی منطقه ۶"
   }
 ]
